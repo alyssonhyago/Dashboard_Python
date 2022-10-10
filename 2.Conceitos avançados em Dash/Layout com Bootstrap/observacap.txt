@@ -1,0 +1,2 @@
+Padding  é a distancia dentro do elemnto (por dentro)
+margin:é a distancia de cada elemento ( por fora)
